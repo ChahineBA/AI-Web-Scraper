@@ -2,6 +2,9 @@
 
 This is a **Python-based web scraping tool** that extracts, cleans, and processes website content with the help of **Selenium** 🧑‍💻, **BeautifulSoup** 🍲, **Langchain** 🔗, and the **Ollama model** 🧠.
 
+## Interface ✨
+![Project Interface](interface.png)
+
 ## Features ✨
 - **Scrapes Website Data** 🌍: Uses Selenium to load web pages and retrieve the HTML source code.
 - **Extracts & Cleans Content** 🧹: Removes unnecessary elements like scripts and styles, leaving only relevant text.
